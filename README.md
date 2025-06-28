@@ -1,3 +1,8 @@
+## 🖼️ Controller Image
+
+![Controller Setup](https://github.com/PurpleWolfDev/BasicJoystickControl/blob/main/photo_2025-06-29_03-01-40.jpg)
+
+
 # Arduino + Python PC Game Controller Using Joysticks
 
 This project turns a dual-joystick Arduino setup into a PC game controller using Python. The Arduino reads analog joystick positions and button presses, then sends direction data to a Python script via serial. The Python script converts this into actual keyboard and mouse input, allowing the joysticks to control PC games.
