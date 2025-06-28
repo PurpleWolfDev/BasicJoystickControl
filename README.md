@@ -38,8 +38,7 @@ This project turns a dual-joystick Arduino setup into a PC game controller using
   If your joystick is rotated, you **must adjust the directional mapping** in the Arduino code accordingly.
 
 - **ChatGPT Assistance Disclosure**  
-  > ⚠️ Note: The Python side of this project was built with assistance from ChatGPT to help me learn and implement serial-to-keyboard integration. My python is not so strong 😅.
-
+  > ⚠️ Note: The Python side of this project was built with assistance from ChatGPT, I wanted to build this with nodejs using serial port and robotjs but i was having issues with installation of libraries, in future may be I'll write an updated code in nodejs.
 ---
 
 ## 📂 Files
