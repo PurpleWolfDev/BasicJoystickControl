@@ -1,7 +1,10 @@
-## 🖼️ Controller Image
+## 🖼️ Controller Image (JUST A PROTOTYPE, BODY IS NOT ASSEMBLED YET)
 
 ![Controller Setup](https://github.com/PurpleWolfDev/BasicJoystickControl/blob/main/photo_2025-06-29_03-01-40.jpg)
 
+## 🎥 Demo Video
+
+![Watch the demo]([https://www.youtube.com/watch?v=a1b2c3d4e5](https://youtube.com/shorts/MepCem7zIws?feature=share))
 
 # Arduino + Python PC Game Controller Using Joysticks
 
